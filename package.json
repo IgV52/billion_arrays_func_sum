@@ -1,0 +1,22 @@
+{
+  "name": "billion_arrays_func_sum_1",
+  "version": "1.0.0",
+  "description": "Super puper SUM FUNC",
+  "main": "dist/index.js",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "test": "node test_index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IgV52/billion_arrays_func_sum/tree/main/"
+  },
+  "bugs": {
+    "url": "https://github.com/IgV52/billion_arrays_func_sum/issues"
+  },
+  "homepage": "https://github.com/IgV52/billion_arrays_func_sum#readme",
+  "author": "js",
+  "license": "MIT",
+  "type": "module"
+}
